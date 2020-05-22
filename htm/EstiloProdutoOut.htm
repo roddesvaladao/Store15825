@@ -1,0 +1,64 @@
+<p254>
+<div class="DivHomeProd DivHotSiteProd smoothShow home-container-products-child" <DataAttribute> id="DivProd<prodId>">
+  <div class="DivHomeImagemProd" id="DivImagemProdDouble<prodId>" onclick="fcSpy$.openSmartModal('<URLProd>');"></div>
+  <div class="DivHomeNomeProd" onclick="NoCascate('<URLProd>');">
+    <span class="HomeNomeProd text-overflow font-regular"><prodName></span>
+  </div>
+  <div class="DivHomePriceProd" style="white-space:nowrap;" onclick="fcSpy$.openSmartModal('<URLProd>');">
+    <div id="idProdPrice<prodId>"></div> 
+    <div class="PriceAVistaLista" id="ProdDesc<prodId>"></div>
+  </div>
+  <div class="home-spy-details-container">
+    <div class="DivHomeDetails" onclick="fcSpy$.openSmartModal('<URLProd>');"><img  src="<storePath>images/icon-more-details.svg?cccfc=1" loading="lazy" width="25" height="25" alt="Fast Preview" title="Fast Preview"></div>
+    <div class="DivHome-wishlist"><wishlist></div>
+  </div>
+</div>
+<script>
+FCLib$.onReady(function(){
+  sF$.fnChangeImages("<prodImgMain>","<prodImgDet>","<URLProd>","<prodId>","<prodNameFU>");
+  sF$.fnShowProd(<prodPriceNum>,<prodPriceOri>,'<prodRef>',<prodMaxInstallmentNum>,<prodId>);
+  /*remove image link*/
+  function removeImgLink(){
+    document.getElementById("DivImagemProdDouble<IDProduto>").addEventListener("click", function(event){
+      event.preventDefault();
+    });
+  }
+  removeImgLink();
+  /*END-remove image link*/
+});
+
+LibHotSite$.aFiltersHotsite.push(<ProdFiltersJS>);
+LibHotSite$.oDicCat[<IDProduto>]="<NomeCatSimples>";
+</script>
+</p254>
+
+<p255>
+<div class="DivHomeProd" <DataAttribute> id="DivProd<prodId>">
+  <div class="DivHomeImagemProd" id="DivImagemProdDouble<prodId>" onclick="fcSpy$.openSmartModal('<URLProd>');"></div>
+  <div class="DivHomeNomeProd" onclick="NoCascate('<URLProd>');">
+    <span class="HomeNomeProd text-overflow font-regular"><prodName></span>
+  </div>
+  <div class="DivHomePriceProd" style="white-space:nowrap;" onclick="fcSpy$.openSmartModal('<URLProd>');">
+    <div id="idProdPrice<prodId>"></div> 
+    <div class="PriceAVistaLista" id="ProdDesc<prodId>"></div>
+  </div>
+  <div class="home-spy-details-container">
+    <div class="DivHomeDetails" onclick="fcSpy$.openSmartModal('<URLProd>');"><img  src="<storePath>images/icon-more-details.svg?cccfc=1" loading="lazy" width="25" height="25" alt="Fast Preview" title="Fast Preview"></div>
+    <div class="DivHome-wishlist"><wishlist></div>
+  </div>
+</div>
+<script>
+FCLib$.onReady(function(){
+  sF$.fnChangeImages("<prodImgMain>","<prodImgDet>","<URLProd>","<prodId>","<prodNameFU>");
+  sF$.fnShowProd(<prodPriceNum>,<prodPriceOri>,'<prodRef>',<prodMaxInstallmentNum>,<prodId>);
+  /*remove image link*/
+  function removeImgLink(){
+    document.getElementById("DivImagemProdDouble<IDProduto>").addEventListener("click", function(event){
+      event.preventDefault();
+    });
+  }
+  removeImgLink();
+  /*END-remove image link*/
+});
+</script>
+</p255>
