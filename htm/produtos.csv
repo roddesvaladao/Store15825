@@ -1,0 +1,841 @@
+NomeCat,IDProduto,CodProd,NomeProd,Peso,Descricao,DescrLonga,Estoque,EstoqueMinimo,Disponivel,ICMS,Custo,Preco,PrecoProm
+"Alimentos",2503684,"","Mel pote",350,"CAV
+Bom Sem Base
+Turmaina-MG","CAV
+Bom Sem Base
+Turmaina-MG",10,0,False,0,0,4.5,0
+"Artesanatos",3327599,"","Caixinha papel para 3 sabonetes",100,"Caixinha papel para 3 sabonetes
+AMTR – Associação das Mulheres Trabalhadoras Rurais de Lago do Junco e Lago dos Rodrigues
+Lago do Junco-MA
+Sabonete de óleo de babaçu – Babaçu Livre","Caixinha papel para 3 sabonetes
+AMTR – Associação das Mulheres Trabalhadoras Rurais de Lago do Junco e Lago dos Rodrigues
+Lago do Junco-MA
+Sabonete de óleo de babaçu – Babaçu Livre",0,0,False,0,0,5,0
+"Bebidas",2517407,"","Cachaça 700ml",1000,"Cooperativa Agroextrativista Grande Sertão
+Sede em Montes Claros – MG, porém com atuação em toda região do Norte de MG.","Cooperativa Agroextrativista Grande Sertão
+Sede em Montes Claros – MG, porém com atuação em toda região do Norte de MG.
+Polpas de fruta congelada: araçá, cajá, coquinho azedo, mangaba, maracujá nativo, panã/araticum, seriguela, tamarindo, acerola, abacaxi, goiaba, manga e maracujá. Pequi congelado, óleo de pequi, polpa de pequi em conserva, rapadurinha, açúcar mascavo, mel (apis), arroz de pilão, farinha de mandioca",0,0,False,0,0,7,0
+"Bebidas",5182935,"","Licor de Abacaxi - 250ml",1000,"Licor de Abacaxi - 250ml
+Produzido pela Cooperativa Babaçu Livre
+Comunidade Santana
+São Luis Gonzaga - MA","Licor de Abacaxi - 250ml
+Produzido pela Cooperativa Babaçu Livre
+Comunidade Santana
+São Luis Gonzaga - MA",0,0,False,0,0,20,0
+"Bebidas",5182933,"","Licor de Jenipapo - 250ml",400,"Licor de Jenipapo - 250ml
+Produzido pela Cooperativa Babaçu Livre
+Comunidade Santana
+São Luis Gonzaga - MA","Licor de Jenipapo - 250ml
+Produzido pela Cooperativa Babaçu Livre
+Comunidade Santana
+São Luis Gonzaga - MA",0,0,True,0,0,20,0
+"Brindes",2506089,"","Bolsas personalizadas",200,"CEPPEC – Centro de Produção, Pesquisa e Capacitação do Cerrado
+Nioaque – MS","CEPPEC – Centro de Produção, Pesquisa e Capacitação do Cerrado
+Nioaque – MS
+Tecelagem de algodão, lã e anafaia com tingimento natural e fibras e vegetais – Bolsas femininas, Bolas/pastas promocionais para eventos, capa para pastas, mantas, cachecol, jogos americano, tapetes, saias, chapéu/gorros, etc.
+Castanha de baru, farinha de jatobá e pequi",0,0,True,0,0,5,0
+"Capim dourado",2466569,"","Balaio de Capim Dourado",300,"Associação Capim Dourado de Mumbuca
+Região do Jalapão, Mateiros-TO, Comunidade de Mumbuca","Associação Capim Dourado de Mumbuca
+Região do Jalapão, Mateiros-TO, Comunidade de Mumbuca",0,0,False,0,0,65,0
+"Capim dourado",3398577,"BjBI","BjBI",290,"Região do Jalapão - TO
+Artesanatos em Capim Dourado (Bolsas, chapéus, bandejas, cestas, etc)","Região do Jalapão - TO
+Artesanatos em Capim Dourado (Bolsas, chapéus, bandejas, cestas, etc)",0,0,True,0,0,80,0
+"Capim dourado",3398572,"BjRIB","BjRIB",180,"Região do Jalapão - TO
+Artesanatos em Capim Dourado (Bolsas, chapéus, bandejas, cestas, etc)","Região do Jalapão - TO
+Artesanatos em Capim Dourado (Bolsas, chapéus, bandejas, cestas, etc)",0,1,True,0,0,70,0
+"Capim dourado",3398749,"BjRIB_2","BjRIB_2",160,"Região do Jalapão - TO
+Artesanatos em Capim Dourado (Bolsas, chapéus, bandejas, cestas, etc)","Região do Jalapão - TO
+Artesanatos em Capim Dourado (Bolsas, chapéus, bandejas, cestas, etc)",0,0,True,0,0,50,0
+"Capim dourado",3398767,"BoAD","BoAD",240,"Região do Jalapão - TO
+Artesanatos em Capim Dourado (Bolsas, chapéus, bandejas, cestas, etc)","Região do Jalapão - TO
+Artesanatos em Capim Dourado (Bolsas, chapéus, bandejas, cestas, etc)",0,0,True,0,0,70,0
+"Capim dourado",3398751,"CAT_05","CAT_05 (18cm diâmetro)",280,"Região do Jalapão - TO
+Artesanatos em Capim Dourado (Bolsas, chapéus, bandejas, cestas, etc)","Região do Jalapão - TO
+Artesanatos em Capim Dourado (Bolsas, chapéus, bandejas, cestas, etc)",0,0,True,0,0,60,0
+"Capim dourado",3398758,"CAT_05b","CAT_05b",230,"Região do Jalapão - TO
+Artesanatos em Capim Dourado (Bolsas, chapéus, bandejas, cestas, etc)","Região do Jalapão - TO
+Artesanatos em Capim Dourado (Bolsas, chapéus, bandejas, cestas, etc)",0,0,True,0,0,80,0
+"Capim dourado",3398928,"CAT_07","CAT_07 (35 cm diâmetro)",210,"Região do Jalapão - TO
+Artesanatos em Capim Dourado (Bolsas, chapéus, bandejas, cestas, etc)","Região do Jalapão - TO
+Artesanatos em Capim Dourado (Bolsas, chapéus, bandejas, cestas, etc)",0,0,True,0,0,57,0
+"Capim dourado",3398923,"CAT_09","CAT_09 (34 cm diâmetro)",270,"Região do Jalapão - TO
+Artesanatos em Capim Dourado (Bolsas, chapéus, bandejas, cestas, etc)","Região do Jalapão - TO
+Artesanatos em Capim Dourado (Bolsas, chapéus, bandejas, cestas, etc)",0,0,True,0,0,100,0
+"Capim dourado",3398882,"CAT_10","CAT_10",510,"Região do Jalapão - TO
+Artesanatos em Capim Dourado (Bolsas, chapéus, bandejas, cestas, etc)","Região do Jalapão - TO
+Artesanatos em Capim Dourado (Bolsas, chapéus, bandejas, cestas, etc)",0,0,True,0,0,110,0
+"Capim dourado",3398869,"CAT_12","CAT_12( 21cmx13cm altura)",310,"Região do Jalapão - TO
+Artesanatos em Capim Dourado (Bolsas, chapéus, bandejas, cestas, etc)","Região do Jalapão - TO
+Artesanatos em Capim Dourado (Bolsas, chapéus, bandejas, cestas, etc)",0,0,False,0,0,65,0
+"Capim dourado",3705079,"","CAT_17 (20x40 cm)",250,"Associação Capim Dourado de Mumbuca
+Região do Jalapão, Mateiros-TO, Comunidade de Mumbuca","Associação Capim Dourado de Mumbuca
+Região do Jalapão, Mateiros-TO, Comunidade de Mumbuca",1,0,True,0,0,57,0
+"Capim dourado",3705078,"","CAT_19 (24 cm diâmetro x 6 cm de altura)",350,"Associação Capim Dourado de Mumbuca
+Região do Jalapão, Mateiros-TO, Comunidade de Mumbuca","Associação Capim Dourado de Mumbuca
+Região do Jalapão, Mateiros-TO, Comunidade de Mumbuca",0,0,True,0,0,72,0
+"Capim dourado",3398772,"CAT_20","CAT_20 (25cm diâmetro X15 cm de alt)",230,"Região do Jalapão - TO
+Artesanatos em Capim Dourado (Bolsas, chapéus, bandejas, cestas, etc)","Região do Jalapão - TO
+Artesanatos em Capim Dourado (Bolsas, chapéus, bandejas, cestas, etc)",0,0,True,0,0,112,0
+"Capim dourado",3398875,"CAT_20b","CAT_20b",210,"Região do Jalapão - TO
+Artesanatos em Capim Dourado (Bolsas, chapéus, bandejas, cestas, etc)","Região do Jalapão - TO
+Artesanatos em Capim Dourado (Bolsas, chapéus, bandejas, cestas, etc)",0,0,True,0,0,0,0
+"Capim dourado",3705081,"","CAT_21 (9,5 cm diâmetro x 8 cm de altura)",300,"Associação Capim Dourado de Mumbuca
+Região do Jalapão, Mateiros-TO, Comunidade de Mumbuca","Associação Capim Dourado de Mumbuca
+Região do Jalapão, Mateiros-TO, Comunidade de Mumbuca",0,0,True,0,0,25,0
+"Capim dourado",3398865,"CAT_26","CAT_26 (25cm  altura x 12 cm base)",350,"Região do Jalapão - TO
+Artesanatos em Capim Dourado (Bolsas, chapéus, bandejas, cestas, etc)","Região do Jalapão - TO
+Artesanatos em Capim Dourado (Bolsas, chapéus, bandejas, cestas, etc)",0,0,False,0,0,50,0
+"Capim dourado",3705083,"","CAT_28 (10 cm x 2,5 cm largura)",100,"Associação Capim Dourado de Mumbuca
+Região do Jalapão, Mateiros-TO, Comunidade de Mumbuca
+Artesanatos em Capim Dourado (Bolsas, chapéus, bandejas, cestas, etc)","Associação Capim Dourado de Mumbuca
+Região do Jalapão, Mateiros-TO, Comunidade de Mumbuca
+Artesanatos em Capim Dourado (Bolsas, chapéus, bandejas, cestas, etc)",0,0,False,0,0,10,0
+"Capim dourado",3705084,"","CAT_29 Chaveiro",50,"Associação Capim Dourado de Mumbuca
+Região do Jalapão, Mateiros-TO, Comunidade de Mumbuca
+Artesanatos em Capim Dourado (Bolsas, chapéus, bandejas, cestas, etc)","Associação Capim Dourado de Mumbuca
+Região do Jalapão, Mateiros-TO, Comunidade de Mumbuca
+Artesanatos em Capim Dourado (Bolsas, chapéus, bandejas, cestas, etc)",9,3,True,0,0,10,0
+"Capim dourado",3705085,"","CAT_32 (7cm diametro) Unidades",10,"Associação Capim Dourado de Mumbuca
+Região do Jalapão, Mateiros-TO, Comunidade de Mumbuca","Associação Capim Dourado de Mumbuca
+Região do Jalapão, Mateiros-TO, Comunidade de Mumbuca",0,0,True,0,0,5,0
+"Capim dourado",3398762,"CAT_39","CAT_39 (34 cm x 33 cm)",310,"Região do Jalapão - TO
+Artesanatos em Capim Dourado (Bolsas, chapéus, bandejas, cestas, etc)","Região do Jalapão - TO
+Artesanatos em Capim Dourado (Bolsas, chapéus, bandejas, cestas, etc)",0,0,True,0,0,85,0
+"Capim dourado",3705098,"","CAT_41(35cmx11,5 cm x 14 altura)",700,"Região do Jalapão - TO
+Artesanatos em Capim Dourado (Bolsas, chapéus, bandejas, cestas, etc)","Região do Jalapão - TO
+Artesanatos em Capim Dourado (Bolsas, chapéus, bandejas, cestas, etc)",0,0,True,0,0,112,0
+"Capim dourado",3705099,"","CAT_42 (base 24 cm x 10 cm altura 14 cm)",400,"Região do Jalapão - TO
+Artesanatos em Capim Dourado (Bolsas, chapéus, bandejas, cestas, etc)","Região do Jalapão - TO
+Artesanatos em Capim Dourado (Bolsas, chapéus, bandejas, cestas, etc)",0,0,True,0,0,60,0
+"Capim dourado",3705086,"","CAT_43 (colar com brincos)",120,"Associação Capim Dourado de Mumbuca
+Região do Jalapão, Mateiros-TO, Comunidade de Mumbuca","Associação Capim Dourado de Mumbuca
+Região do Jalapão, Mateiros-TO, Comunidade de Mumbuca",0,0,True,0,0,50,0
+"Capim dourado",3705089,"","CAT_44 (5 cm)",50,"Região do Jalapão - TO
+Artesanatos em Capim Dourado (Bolsas, chapéus, bandejas,bio joias cestas, etc)","Região do Jalapão - TO
+Artesanatos em Capim Dourado (Bolsas, chapéus, bandejas, bio joias,cestas, etc)",0,0,True,0,0,12,0
+"Capim dourado",3705088,"","CAT_45(8 cm)",50,"Região do Jalapão - TO
+Artesanatos em Capim Dourado (Bolsas, chapéus, bandejas, bio joias, cestas, etc)","Região do Jalapão - TO
+Artesanatos em Capim Dourado (Bolsas, chapéus, bandejas, bio joias, cestas, etc)",0,0,True,0,0,15,0
+"Capim dourado",3705090,"","CAT_48 (9 cm)",50,"Região do Jalapão - TO
+Artesanatos em Capim Dourado (Bolsas, chapéus, bandejas, cestas, etc)","Região do Jalapão - TO
+Artesanatos em Capim Dourado (Bolsas, chapéus, bandejas, cestas, etc)",0,0,True,0,0,12,0
+"Capim dourado",3705091,"","CAT_49 (6 cm)",50,"Associação Capim Dourado de Mumbuca
+Região do Jalapão, Mateiros-TO, Comunidade de Mumbuca","Associação Capim Dourado de Mumbuca
+Região do Jalapão, Mateiros-TO, Comunidade de Mumbuca(bio joias,cesta, chapéus,artesanatos decoração)",0,0,True,0,0,10,0
+"Capim dourado",3705092,"","CAT_51 (5,5 cm)",50,"Associação Capim Dourado de Mumbuca
+Região do Jalapão, Mateiros-TO, Comunidade de Mumbuca(bio joias,artesanatos decorativo, chapéu e cestas)","Associação Capim Dourado de Mumbuca
+Região do Jalapão, Mateiros-TO, Comunidade de Mumbuca(bio joias,artesanatos decorativo, chapéu e cestas)",0,0,True,0,0,15,0
+"Capim dourado",3705093,"","CAT_53 + Açaí (4cm)",65,"Associação Capim Dourado de Mumbuca
+Região do Jalapão, Mateiros-TO, Comunidade de Mumbuca","Associação Capim Dourado de Mumbuca
+Região do Jalapão, Mateiros-TO, Comunidade de Mumbuca,artesanato,bio joias,capim dourado,central do cerrado,manejo sustentavel,cooperativas",0,0,True,0,0,15,0
+"Capim dourado",3705096,"","CAT_54",50,"Região do Jalapão - TO
+Artesanatos em Capim Dourado (Bolsas, chapéus, bandejas, cestas, etc)BIO Joias,artesanato decorativo,capim dourado,central do cerrado,cooperativa,produtos ecossociais,CERRADO","Região do Jalapão - TO
+Artesanatos em Capim Dourado (Bolsas, chapéus, bandejas, cestas, etc)BIO Joias,artesanato decorativo,capim dourado,central do cerrado,cooperativa,produtos ecossociais,CERRADO",0,0,True,0,0,15,0
+"Capim dourado",2466583,"","Chapéu de Capim Dourado",500,"Associação Comunitária de Pequenos Produtores de Mateiros
+Região do Jalapão, Mateiros-TO
+Artesanatos em Capim Dourado (Bolsas, chapéus, bandejas, cestas, etc)","Associação Comunitária de Pequenos Produtores de Mateiros
+Região do Jalapão, Mateiros-TO
+Artesanatos em Capim Dourado (Bolsas, chapéus, bandejas, cestas, etc)",0,1,True,0,0,130,0
+"Capim dourado",3705076,"CX_1","CX_1 (24 cm dia x 6 de altura)",210,"Associação Capim Dourado de Mumbuca
+Região do Jalapão, Mateiros-TO, Comunidade de Mumbuca","Associação Capim Dourado de Mumbuca
+Região do Jalapão, Mateiros-TO, Comunidade de Mumbuca",20,0,False,0,0,0,0
+"Capim dourado",3398913,"CzPIT","CzPIT (22cm x 6 cm altura)",200,"Região do Jalapão - TO
+Artesanatos em Capim Dourado (Bolsas, chapéus, bandejas, cestas, etc)","Região do Jalapão - TO
+Artesanatos em Capim Dourado (Bolsas, chapéus, bandejas, cestas, etc)",0,0,True,0,0,50,0
+"Capim dourado",3398763,"FrRIT","FrRIT (29cm diâmetro x 9cm  altura)",350,"Região do Jalapão - TO
+Artesanatos em Capim Dourado (Bolsas, chapéus, bandejas, cestas, etc)","Região do Jalapão - TO
+Artesanatos em Capim Dourado (Bolsas, chapéus, bandejas, cestas, etc)",0,0,True,0,0,72,0
+"Capim dourado",3398879,"FrRV","FrRV (32 cm diâmetro x 12cm  altura)",270,"Região do Jalapão - TO
+Artesanatos em Capim Dourado (Bolsas, chapéus, bandejas, cestas, etc)","Região do Jalapão - TO
+Artesanatos em Capim Dourado (Bolsas, chapéus, bandejas, cestas, etc)",0,0,True,0,0,90,0
+"Capim dourado",3398755,"MdRV","MdRV",530,"Região do Jalapão - TO
+Artesanatos em Capim Dourado (Bolsas, chapéus, bandejas, cestas, etc)","Região do Jalapão - TO
+Artesanatos em Capim Dourado (Bolsas, chapéus, bandejas, cestas, etc)",0,0,True,0,0,120,0
+"Capim dourado",3398770,"MdRV_2","MdRV_2 (47 cm diâmetro)",310,"Região do Jalapão - TO
+Artesanatos em Capim Dourado (Bolsas, chapéus, bandejas, cestas, etc)","Região do Jalapão - TO
+Artesanatos em Capim Dourado (Bolsas, chapéus, bandejas, cestas, etc)",0,0,True,0,0,100,0
+"Capim dourado",3398884,"MdRV_3","MdRV_3 (35 cm diâmetro )",180,"Região do Jalapão - TO
+Artesanatos em Capim Dourado (Bolsas, chapéus, bandejas, cestas, etc)","Região do Jalapão - TO
+Artesanatos em Capim Dourado (Bolsas, chapéus, bandejas, cestas, etc)",-1,0,True,0,0,67,0
+"Capim dourado",3705071,"CAT_06","Porta-copos (10 cm diâmetro)",190,"Região do Jalapão - TO
+Artesanatos em Capim Dourado (Bolsas, chapéus, bandejas, cestas, etc)
+","Região do Jalapão - TO
+Artesanatos em Capim Dourado (Bolsas, chapéus, bandejas, cestas, etc)",0,0,True,0,0,0,0
+"Capim dourado",3398523,"PzOI","PzOI (25cm  larg x 3,5cm altura x 34cm comp)",280,"Região do Jalapão - TO
+Artesanatos em Capim Dourado (Bolsas, chapéus, bandejas, cestas, etc)","Região do Jalapão - TO
+Artesanatos em Capim Dourado (Bolsas, chapéus, bandejas, cestas, etc)",0,0,False,0,0,70,0
+"Capim dourado",3398566,"PzOIb","PzOIb (40 cm comp x 7 cm alt x 32cm larg)",270,"Região do Jalapão - TO
+Artesanatos em Capim Dourado (Bolsas, chapéus, bandejas, cestas, etc)","Região do Jalapão - TO
+Artesanatos em Capim Dourado (Bolsas, chapéus, bandejas, cestas, etc)",0,0,True,0,0,90,0
+"Capim dourado",3398935,"PzOIc","PzOIc",230,"Região do Jalapão - TO
+Artesanatos em Capim Dourado (Bolsas, chapéus, bandejas, cestas, etc)","Região do Jalapão - TO
+Artesanatos em Capim Dourado (Bolsas, chapéus, bandejas, cestas, etc)",0,0,True,0,0,70,0
+"Capim dourado",3398944,"PzOId","PzOId",230,"Região do Jalapão - TO
+Artesanatos em Capim Dourado (Bolsas, chapéus, bandejas, cestas, etc)","Região do Jalapão - TO
+Artesanatos em Capim Dourado (Bolsas, chapéus, bandejas, cestas, etc)",0,0,True,0,0,63,0
+"Capim dourado",3398919,"PzRI","PzRI (3cm diam x 14 cm alt)",370,"Região do Jalapão - TO
+Artesanatos em Capim Dourado (Bolsas, chapéus, bandejas, cestas, etc)","Região do Jalapão - TO
+Artesanatos em Capim Dourado (Bolsas, chapéus, bandejas, cestas, etc)",0,0,True,0,0,70,0
+"Capim dourado",3398941,"PzRIB","PzRIB (31 cm x 5cm  alt)",300,"Região do Jalapão - TO
+Artesanatos em Capim Dourado (Bolsas, chapéus, bandejas, cestas, etc)","Região do Jalapão - TO
+Artesanatos em Capim Dourado (Bolsas, chapéus, bandejas, cestas, etc)",0,0,True,0,0,60,0
+"Capim dourado",3398933,"VsAI","VsAI (10 cm diam x 20cm alt)",190,"Região do Jalapão - TO
+Artesanatos em Capim Dourado (Bolsas, chapéus, bandejas, cestas, etc)","Região do Jalapão - TO
+Artesanatos em Capim Dourado (Bolsas, chapéus, bandejas, cestas, etc)",0,0,True,0,0,50,0
+"Castanhas",2506090,"","Castanha de Baru torrada",30,"Castanha de Baru Torrada e Salgada
+COMPRUP – COOPERATIVA MINI PRODUTORES RURAIS DE POCONÉ
+Poconé-MT
+Baru, farinha de mandioca e hortifrutigranjeiros","COMPRUP – COOPERATIVA MINI PRODUTORES RURAIS DE POCONÉ
+Poconé-MT
+Baru, farinha de mandioca e hortifrutigranjeiros",0,0,False,0,0,2,0
+"Castanhas",3327570,"","Castanha de baru torrada 100g",165,"Castanha de baru torrada 100g
+Promessa de Futuro
+Pirenópolis – GO
+Picles, geléias, chutney, castanha de baru, feijão azuki
+
+","Castanha de baru torrada 100g
+Promessa de Futuro
+Pirenópolis – GO
+Picles, geléias, chutney, castanha de baru, feijão azuki",0,0,False,17,0,6,0
+"Castanhas",5025864,"","Castanha de Baru torrada 100g",150,"Castanha de Baru torrada 100g com pele, sem sal
+Produzido por COPABASE
+Torrado e envasado por Central do Cerrado
+","Castanha de Baru torrada com pele, sem sal.
+Produzido por COPABASE
+Torrado e envasado por Central do Cerrado
+Produto do extrativismo sustentável do Vale do Urucuia/MG.",40,15,True,0,0,10,10
+"Castanhas",2466580,"","Castanha de baru torrada 100gr",150,"CEPPEC – Centro de Produção, Pesquisa e Capacitação do Cerrado
+Nioaque – MS","CEPPEC – Centro de Produção, Pesquisa e Capacitação do Cerrado
+Nioaque – MS
+Tecelagem de algodão, lã e anafaia com tingimento natural e fibras e vegetais – Bolsas femininas, Bolas/pastas promocionais para eventos, capa para pastas, mantas, cachecol, jogos americano, tapetes, saias, chapéu/gorros, etc.
+Castanha de baru, farinha de jatobá e pequi",0,0,False,0,0,8,0
+"Castanhas",2466577,"","Castanha de baru torrada 200g",300,"Castanha de baru torrada 200g
+Promessa de Futuro
+Pirenópolis – GO","Castanha de baru torrada 200g
+Promessa de Futuro
+Pirenópolis – GO
+Picles, geléias, chutney, castanha de baru, feijão azuki",0,0,True,17,0,15,0
+"Castanhas",3973013,"","Castanha de Baru torrada 200g",250,"Castanha de Baru torrada200g com pele, sem sal
+Produzido por COPABASE
+Torrado e envasado por Central do Cerrado
+","Castanha de Baru torrada com pele, sem sal.
+Produzido por COPABASE
+Torrado e envasado por Central do Cerrado
+Produto do extrativismo sustentável do Vale do Urucuia/MG.
+",0,0,False,0,0,20,0
+"Castanhas",3327573,"","Castanha de baru torrada 50g",75,"Castanha de baru torrada 50g
+Promessa de Futuro
+Pirenópolis – GO
+Picles, geléias, chutney, castanha de baru, feijão azuki","Castanha de baru torrada 50g
+Promessa de Futuro
+Pirenópolis – GO
+Picles, geléias, chutney, castanha de baru, feijão azuki",0,0,False,17,0,3,0
+"Castanhas",2506091,"","Castanha de Baru torrada sem sal empacotada a vácuo 1kg",1200,"Cooperativa Agroextrativista em base de Agricultura Familiar Sustentável e Economia Solidária – COPABASE
+Arinos-MG
+","Congregando em seus quadros 150 agricultores familiares do Vale do Rio Urucuia, a Cooperativa Agroextrativista em base de Agricultura Familiar Sustentável e Economia Solidária – COPABASE tem por missão gerar trabalho e renda para as famílias, sob os princípios da Economia Popular Solidária.
+",0,1,True,0,0,80,0
+"Castanhas",2506094,"","Castanha de pequi torrada 50g",75,"Castanha de pequi 50g (torrada salgada)
+COOPERJAP – Cooperativa do Produtores Rurais e Catadores de Pequi
+Japonvar – MG","COOPERJAP – Cooperativa do Produtores Rurais e Catadores de Pequi
+Japonvar – MG
+Pequi em conserva, óleo de pequi, castanha de pequi e polpas de frutas nativas congeladas",0,0,False,0,0,10,0
+"Cestas",5182980,"cx_3","Caixa de buriti grande",100,"Caixeta artesanal feita de talos de buriti.","Caixeta artesanal feita de talos de buriti.cc",0,0,True,0,0,30,0
+"Cestas",5183164,"cx_2","Caixa de buriti média",100,"Caixeta artesanal feita de talos de buriti.","Caixeta artesanal feita de talos de buriti.",0,0,True,0,0,27,0
+"Cestas",5183167,"cx_1","Caixa de buriti pequena",100,"Caixeta artesanal feita de talos de buriti.","Caixeta artesanal feita de talos de buriti.",0,0,True,0,0,21,0
+"Conservas",2503616,"","Chutney de Manga",250,"Promessa de Futuro
+Pirenópolis – GO
+Picles, geléias, chutney, castanha de baru, feijão azuki","Promessa de Futuro
+Pirenópolis – GO
+Picles, geléias, chutney, castanha de baru, feijão azuki",0,0,False,0,0,15,0
+"Conservas",2517408,"","Pequi caroço congelado - dúzia",300,"Pequi caroço congelado - dúzia
+Cooperativa Agroextrativista Grande Sertão
+Sede em Montes Claros – MG, porém com atuação em toda região do Norte de MG.","Cooperativa Agroextrativista Grande Sertão
+Sede em Montes Claros – MG, porém com atuação em toda região do Norte de MG.
+Polpas de fruta congelada: araçá, cajá, coquinho azedo, mangaba, maracujá nativo, panã/araticum, seriguela, tamarindo, acerola, abacaxi, goiaba, manga e maracujá. Pequi congelado, óleo de pequi, polpa de pequi em conserva, rapadurinha, açúcar mascavo, mel (apis), arroz de pilão, farinha de mandioca",10,0,False,0,0,10,0
+"Conservas",2503635,"","Picles de Abóbora inteira",300,"Picles de Abóbora inteira
+Promessa de Futuro
+Pirenópolis – GO
+Picles, geléias, chutney, castanha de baru, feijão azuki","Picles de Abóbora inteira
+Promessa de Futuro
+Pirenópolis – GO
+Picles, geléias, chutney, castanha de baru, feijão azuki",0,0,False,17,0,8,0
+"Conservas",3327534,"","Picles de Abóbora picada 250g",350,"Picles de Abóbora picada
+Promessa de Futuro
+Pirenópolis – GO
+Picles, geléias, chutney, castanha de baru, feijão azuki","Picles de Abóbora picada
+Promessa de Futuro
+Pirenópolis – GO
+Picles, geléias, chutney, castanha de baru, feijão azuki",0,0,False,17,0,8,0
+"Conservas",2503638,"","Picles de Milho",500,"Promessa de Futuro
+Pirenópolis – GO
+Picles, geléias, chutney, castanha de baru, feijão azuki","Promessa de Futuro
+Pirenópolis – GO
+Picles, geléias, chutney, castanha de baru, feijão azuki",0,0,False,0,0,8,0
+"Conservas",2503641,"","Picles de Pepino",300,"Picles de Pepino
+Promessa de Futuro
+Pirenópolis – GO
+Picles, geléias, chutney, castanha de baru, feijão azuki","Picles de Pepino
+Promessa de Futuro
+Pirenópolis – GO
+Picles, geléias, chutney, castanha de baru, feijão azuki",0,0,False,17,0,8,0
+"Conservas",3327560,"","Picles de Quiabo 250g",300,"Picles de Quiabo
+Promessa de Futuro
+Pirenópolis – GO
+Picles, geléias, chutney, castanha de baru, feijão azuki","Picles de Quiabo
+Promessa de Futuro
+Pirenópolis – GO
+Picles, geléias, chutney, castanha de baru, feijão azuki",0,0,False,17,0,8,0
+"Conservas",3974401,"","Polpa de pequi em conserva 250g",850,"Polpa de pequi em conserva 250g
+CoopSertão
+Chapada Gaucha - MG","Polpa de pequi em conserva 250g
+CoopSertão
+Chapada Gaucha - MG
+Produto do extrativismo sustentável no entorno do Parque Nacional Grande Sertão Veredas.",0,0,False,0,0,15,0
+"Conservas",2506100,"","Polpa de pequi em conserva 250g",615,"Polpa de pequi em conserva (250g drenado)
+COOPERJAP – Cooperativa do Produtores Rurais e Catadores de Pequi
+Japonvar – MG","COOPERJAP – Cooperativa do Produtores Rurais e Catadores de Pequi
+Japonvar – MG
+
+Cerca de 250 famílias, em 30 organizações de produtores, entre elas a Associação dos Pequenos Produtores Rurais da Cabeceira do Mangaí (Aprocam) participam do empreendimento e processaram o pequi em núcleos comunitários de despolpa. Com isso, o extrativismo está se transformando na principal fonte de renda dos produtores locais.",0,0,True,0,0,15,0
+"Cosméticos",3305497,"","Condicionador Pacari e Gueroba 250ml",310,"Condicionador Pacari e Gueroba 250ml
+Brilho e maciez para seus cabelos
+Pacari Cerrado Ecoprodutivo (GO)
+PACARI – Associação do Ipês
+Buritis-GO","Condicionador Pacari e Gueroba 250ml
+Pacari Cerrado Ecoprodutivo (GO)
+Brilho e maciez para seus cabelos
+PACARI – Associação do Ipês
+Buritis-GO
+Fitocosméticos (sabonete, óleo corporal e loção hidratante) a base de óleo do coco da gueroba
+",0,0,False,17,0,15,0
+"Cosméticos",2487132,"","Hidratante com óleo de Gueroba 200ml",250,"Loção hidratante com óleo de amêndoas de Gueroba aroma natural 200ml
+Cerrado Eco-produtivos
+PACARI – Associação do Ipês
+Buritis-GO
+Contém conhecimento tradicional
+","Loção hidratante com óleo de amêndoas de Gueroba aroma natural 200ml
+Cerrado Eco-produtivos
+PACARI – Associação do Ipês
+Buritis-GO
+Fitocosméticos (sabonete, óleo corporal e loção hidratante) a base de óleo do coco da gueroba",0,0,False,17,0,30,0
+"Cosméticos",3305495,"","Hidratante de Gueroba com essência 200ml",250,"Loção hidratante com óleo de amêndoas de Gueroba com essência 200ml
+Cerrado Eco-produtivos
+PACARI – Associação do Ipês
+Buritis-GO","Loção hidratante com óleo de amêndoas de Gueroba com essência 200ml
+Cerrado Eco-produtivos
+PACARI – Associação do Ipês
+Buritis-GO
+Fitocosméticos (sabonete, óleo corporal e loção hidratante) a base de óleo do coco da gueroba",0,2,False,0,0,30,0
+"Cosméticos",3305501,"","Hidratante de Gueroba e Buriti 120ml",200,"Óleo hidratante para o corpo Gueroba e Buriti 120ml
+Cerrado Eco-produtivo
+Massagem e Hidratação
+Buritis-GO","Óleo hidratante para o corpo Gueroba e Buriti 120ml
+Cerrado Eco-produtivo
+Massagem e Hidratação
+Buritis-GO
+Fitocosméticos (sabonete, óleo corporal e loção hidratante) a base de óleo do coco da gueroba",0,0,False,17,0,20,0
+"Cosméticos",3305503,"","Hidratante de Gueroba e Pequi 120ml",200,"Óleo hidratante para o corpo Gueroba e Pequi 120ml
+Cerrado Eco-produtivo
+Massagem e Hidratação
+Buritis-GO","Óleo hidratante para o corpo Gueroba e Pequi 120ml
+Cerrado Eco-produtivo
+Massagem e Hidratação
+Buritis-GO
+Fitocosméticos (sabonete, óleo corporal e loção hidratante) a base de óleo do coco da gueroba",0,0,True,17,0,20,0
+"Cosméticos",3305499,"","Óleo de Amêndoas de Gueroba - alecrim 120ml",200,"Óleo de Amêndoas de Gueroba - com óleo essencial de alecrim 120ml
+Hidratação para o corpo
+Buritis-GO
+Fitocosméticos (sabonete, óleo corporal e loção hidratante) a base de óleo do coco da gueroba
+","Óleo de Amêndoas de Gueroba - com óleo essencial de alecrim 120ml
+Hidratação para o corpo
+Buritis-GO
+Fitocosméticos (sabonete, óleo corporal e loção hidratante) a base de óleo do coco da gueroba",0,0,True,0,0,20,0
+"Cosméticos",2506101,"","Óleo de Amêndoas de Gueroba natural 120ml",150,"Óleo de Amêndoas de Gueroba - aroma natural 120ml
+Cerrado Eco-produtivo
+Massagem e Hidratação
+PACARI – Associação do Ipês
+Buritis-GO","Óleo de Amêndoas de Gueroba - aroma natural 120ml
+Cerrado Eco-produtivo
+Massagem e Hidratação
+PACARI – Associação do Ipês
+Buritis-GO
+Fitocosméticos (sabonete, óleo corporal e loção hidratante) a base de óleo do coco da gueroba",0,0,True,17,0,20,0
+"Cosméticos",2506086,"","Sabonete de Babaçu com Erva-Doce",115,"AMTR – Associação das Mulheres Trabalhadoras Rurais de Lago do Junco e Lago dos Rodrigues
+Lago do Junco-MA
+Sabonete de óleo de babaçu – Babaçu Livre","AMTR – Associação das Mulheres Trabalhadoras Rurais de Lago do Junco e Lago dos Rodrigues
+Lago do Junco-MA
+Sabonete de óleo de babaçu – Babaçu Livre",-9,150,True,17,0,4,0
+"Cosméticos",5025859,"","Sabonete de Lavanda-90g",115,"AMTR – Associação das Mulheres Trabalhadoras Rurais de Lago do Junco e Lago dos Rodrigues
+Lago do Junco-MA
+Sabonete de óleo de lavanda – Babaçu Livre","AMTR – Associação das Mulheres Trabalhadoras Rurais de Lago do Junco e Lago dos Rodrigues
+Lago do Junco-MA
+Sabonete de óleo de lavanda – Babaçu Livre",0,0,False,17,0,4,0
+"Cosméticos",5025857,"","Sabonete de Palmo-90g",115,"AMTR – Associação das Mulheres Trabalhadoras Rurais de Lago do Junco e Lago dos Rodrigues
+Lago do Junco-MA
+Sabonete de óleo de palmo – Babaçu Livre","AMTR – Associação das Mulheres Trabalhadoras Rurais de Lago do Junco e Lago dos Rodrigues
+Lago do Junco-MA
+Sabonete de óleo de palmo – Babaçu Livre",0,100,True,17,0,4,0
+"Cosméticos",2506103,"","Sabonete Vegetal Gueroba e Argila 110g",200,"Sabonete vegetal gueroba argila
+PACARI – Associação do Ipês
+Buritis-GO
+Fitocosméticos (sabonete, óleo corporal e loção hidratante) a base de óleo do coco da gueroba
+","PACARI – Associação do Ipês
+Buritis-GO
+Fitocosméticos (sabonete, óleo corporal e loção hidratante) a base de óleo do coco da gueroba",0,0,False,0,0,8,0
+"Cosméticos",3305457,"","Sabonete Vegetal Pacari e Gueroba - 110g",110,"Sabonete Vegetal Pacari e Gueroba - 110g
+Cerrado Eco-produtivo
+PACARI – Associação do Ipês
+Buritis-GO","Sabonete Vegetal Pacari e Gueroba - 110g
+Cerrado Eco-produtivo
+PACARI – Associação do Ipês
+Buritis-GO
+Fitocosméticos (sabonete, óleo corporal e loção hidratante) a base de óleo do coco da gueroba",0,0,False,17,0,8,0
+"Cosméticos",3305470,"","Shampoo  Pacari - cabelos oleosos - 250ml",300,"Shampoo  Pacari e Gueroba - Cabelos Oleosos - 250ml
+PACARI – Associação do Ipês
+Buritis-GO","Shampoo  Pacari e Gueroba - Cabelos Oleosos - 250ml 
+PACARI – Associação do Ipês
+Buritis-GO",0,0,False,17,0,15,0
+"Cosméticos",3305463,"","Shampoo Pacari - cabelos normais - 250ml",300,"Shampoo Pacari e Gueroba - Cabelos Normais  - 250ml
+Cerrado Eco-produtivo
+PACARI – Associação do Ipês
+Buritis-GO","Shampoo Pacari e Gueroba - Cabelos Normais  - 250ml
+Cerrado Eco-produtivo
+PACARI – Associação do Ipês
+Buritis-GO
+Fitocosméticos (sabonete, óleo corporal e loção hidratante) a base de óleo do coco da gueroba",0,0,False,17,0,15,0
+"Derivados de cana",2466545,"","Açucar mascavo",1000,"CAV
+Bom Sem Base
+Turmaina-MG","CAV
+Bom Sem Base
+Turmaina-MG",0,0,False,0,0,14,0
+"Derivados de cana",5182928,"","Açucar Mascavo - 1Kg",1000,"COPABASE - Cooperativa Agroextrativista em base de Agricultura Familiar Sustentável e Economia Solidária. Congrega em seus quadros 150 agricultores familiares do Vale do Rio Urucuia.","Congregando em seus quadros 150 agricultores familiares do Vale do Rio Urucuia, a Cooperativa Agroextrativista em base de Agricultura Familiar Sustentável e Economia Solidária – COPABASE tem por missão gerar trabalho e renda para as famílias, sob os princípios da Economia Popular Solidária.",0,0,True,0,0,10,0
+"Derivados de cana",2517048,"","Melado de Cana 500ml",500,"Pé de Serra
+Bonito – MS
+Geléias, doces, compotas e conservas de pimenta","Pé de Serra
+Bonito – MS
+Geléias, doces, compotas e conservas de pimenta",0,0,False,0,0,10,0
+"Derivados de cana",2517049,"","Rapadura de Amendoim",250,"Pé de Serra
+Bonito – MS
+Geléias, doces, compotas e conservas de pimenta","Pé de Serra
+Bonito – MS
+Geléias, doces, compotas e conservas de pimenta",10,0,False,0,0,6,0
+"Derivados de cana",2517402,"","Rapadura de Bocaúva",500,"Pé de Serra
+Bonito – MS
+Geléias, doces, compotas e conservas de pimenta","Pé de Serra
+Bonito – MS
+Geléias, doces, compotas e conservas de pimenta",0,0,False,0,0,10,0
+"Derivados de cana",2517399,"","Rapadura de Gergelim",250,"Pé de Serra
+Bonito – MS
+Geléias, doces, compotas e conservas de pimenta","Pé de Serra
+Bonito – MS
+Geléias, doces, compotas e conservas de pimenta",10,0,False,0,0,6,0
+"Derivados de cana",2517401,"","Rapadura de Gergelim",500,"Pé de Serra
+Bonito – MS
+Geléias, doces, compotas e conservas de pimenta","Pé de Serra
+Bonito – MS
+Geléias, doces, compotas e conservas de pimenta",0,0,False,0,0,10,0
+"Derivados de cana",2517403,"","Rapadura de Jaracatiá",500,"Pé de Serra
+Bonito – MS
+Geléias, doces, compotas e conservas de pimenta","Pé de Serra
+Bonito – MS
+Geléias, doces, compotas e conservas de pimenta",0,0,False,0,0,10,0
+"Derivados de cana",2517405,"","Rapadura de Leite",500,"Pé de Serra
+Bonito – MS
+Geléias, doces, compotas e conservas de pimenta","Pé de Serra
+Bonito – MS
+Geléias, doces, compotas e conservas de pimenta",0,0,False,0,0,10,0
+"Derivados de cana",2517409,"","Rapadurinha 50g",50,"Cooperativa Agroextrativista Grande Sertão
+Sede em Montes Claros – MG, porém com atuação em toda região do Norte de MG.","Cooperativa Agroextrativista Grande Sertão
+Sede em Montes Claros – MG, porém com atuação em toda região do Norte de MG.
+Polpas de fruta congelada: araçá, cajá, coquinho azedo, mangaba, maracujá nativo, panã/araticum, seriguela, tamarindo, acerola, abacaxi, goiaba, manga e maracujá. Pequi congelado, óleo de pequi, polpa de pequi em conserva, rapadurinha, açúcar mascavo, mel (apis), arroz de pilão, farinha de mandioca",0,0,False,0,0,2,0
+"Doces e Geléias",3327342,"","Barra de cereal de baru e jatobá",30,"Nutri de baru, jatobá, mel e farinha de mandioca produzido pela PHYTOBRASIL / AGROTEC – Centro de Tecnologia Agroecológica de Pequenos Agricultores em Diorama – GO.","Nutri de baru, jatobá, mel e farinha de mandioca produzido pela PHYTOBRASIL / AGROTEC – Centro de Tecnologia Agroecológica de Pequenos Agricultores em Diorama – GO.
+
+Nutri do Cerrado
+Validade: 3 meses",0,0,False,17,0,3,0
+"Doces e Geléias",5699862,"","Barutella - 180g",500,"Nonna Pasqua
+Goiânia - GO
+
+Barutella é a deliciosa combinação de Cacau, Chocolate Amargo e castanha Baru
+
+Pode ser consumida in natura, com pães ou em sobremesas, bolos, crepes e tapiocas","Nonna Pasqua
+Goiânia - GO
+
+Barutella é a deliciosa combinação de Cacau, Chocolate Amargo e castanha Baru
+
+Pode ser consumida in natura, com pães ou em recheio de sobremesas, bolos, crepes e tapiocas",24,10,True,0,0,15,0
+"Doces e Geléias",2503624,"","Geléia de Cagaita 240g",0,"Promessa de Futuro
+Pirenópolis – GO
+Picles, geléias, chutney, castanha de baru, feijão azuki","Promessa de Futuro
+Pirenópolis – GO
+Picles, geléias, chutney, castanha de baru, feijão azuki",0,0,False,0,0,15,0
+"Doces e Geléias",2503618,"","Geléia de Hibiscus com canela 240g",480,"Promessa de Futuro
+Pirenópolis – GO
+Picles, geléias, chutney, castanha de baru, feijão azuki","Promessa de Futuro
+Pirenópolis – GO
+Picles, geléias, chutney, castanha de baru, feijão azuki",0,0,True,0,0,15,0
+"Doces e Geléias",2503622,"","Geléia de Hibiscus puro 240g",480,"Geléia de Hibiscus puro
+Promessa de Futuro
+Pirenópolis – GO
+Picles, geléias, chutney, castanha de baru, feijão azuki","Geléia de Hibiscus puro
+Promessa de Futuro
+Pirenópolis – GO
+Picles, geléias, chutney, castanha de baru, feijão azuki",0,0,True,17,0,15,0
+"Doces e Geléias",2503628,"","Geléia de Jaboticaba 190g",350,"Promessa de Futuro
+Pirenópolis – GO
+Picles, geléias, chutney, castanha de baru, feijão azuki","Promessa de Futuro
+Pirenópolis – GO
+Picles, geléias, chutney, castanha de baru, feijão azuki",0,0,True,0,0,15,0
+"Doces e Geléias",2503632,"","Geléia de Tangerina290g",250,"Promessa de Futuro
+Pirenópolis – GO
+Picles, geléias, chutney, castanha de baru, feijão azuki","Promessa de Futuro
+Pirenópolis – GO
+Picles, geléias, chutney, castanha de baru, feijão azuki",0,0,False,0,0,6,0
+"Doces e Geléias",2466591,"","Geléias de Manga 250g",0,"Promessa de Futuro
+Pirenópolis – GO
+Picles, geléias, chutney, castanha de baru, feijão azuki","Promessa de Futuro
+Pirenópolis – GO
+Picles, geléias, chutney, castanha de baru, feijão azuki",0,0,False,0,0,15,0
+"Farinhas",3761857,"","Açafrão - 500g",500,"COPABASE - Cooperativa Agroextrativista em base de Agricultura Familiar Sustentável e Economia Solidária. Congrega em seus quadros 150 agricultores familiares do Vale do Rio Urucuia.","Congregando em seus quadros 150 agricultores familiares do Vale do Rio Urucuia, a Cooperativa Agroextrativista em base de Agricultura Familiar Sustentável e Economia Solidária – COPABASE tem por missão gerar trabalho e renda para as famílias, sob os princípios da Economia Popular Solidária",0,0,True,0,0,23,0
+"Farinhas",4903106,"","Açafrão - 70g",70,"COPABASE - Cooperativa Agroextrativista em base de Agricultura Familiar Sustentável e Economia Solidária. Congrega em seus quadros 150 agricultores familiares do Vale do Rio Urucuia.","Congregando em seus quadros 150 agricultores familiares do Vale do Rio Urucuia, a Cooperativa Agroextrativista em base de Agricultura Familiar Sustentável e Economia Solidária – COPABASE tem por missão gerar trabalho e renda para as famílias, sob os princípios da Economia Popular Solidária.",39,1,True,0,0,10,0
+"Farinhas",5025867,"","Farinha de jatobá - 100g",150,"Polpa de Jatobá Integral
+Produzido por CEPPEC - MS
+Centro de Produção Pesquisa e Capacitação do Cerrado","Centro de Produção Pesquisa e Capacitação do Cerrado
+Fundado em 2005, o CEPPEC é uma organização composta por agricultores familiares do assentamento Andalúcia, município de Nioaque, Mato Grosso do Sul.
+
+Essas mulheres e suas famílias também praticam o extrativismo de base sustentável de cumbaru, produzem farinha de jatobá e pequi, tornando o CEPPEC uma referência de desenvolvimento local sustentável e preservação do Cerrado no Mato Grosso do Sul.
+
+As mulheres do grupo também trabalham com tecelagem de roupas e artigos para cama e mesa a partir de matérias-primas das plantas nativas do Cerrado (palhas, fibras e sementes) e cultivadas em sistemas agroecológicos no assentamento. As peças são tingidas com corantes naturais de plantas nativas, como barbatimão, jenipapo e angico.",0,0,True,0,0,10,8
+"Farinhas",5025879,"","Farinha de jatobá 1kg",1100,"Polpa de Jatobá Integral
+Produzido por CEPPEC - MS
+Centro de Produção Pesquisa e Capacitação do Cerrado","Centro de Produção Pesquisa e Capacitação do Cerrado
+Fundado em 2005, o CEPPEC é uma organização composta por agricultores familiares do assentamento Andalúcia, município de Nioaque, Mato Grosso do Sul.
+
+Essas mulheres e suas famílias também praticam o extrativismo de base sustentável de cumbaru, produzem farinha de jatobá e pequi, tornando o CEPPEC uma referência de desenvolvimento local sustentável e preservação do Cerrado no Mato Grosso do Sul.
+
+As mulheres do grupo também trabalham com tecelagem de roupas e artigos para cama e mesa a partir de matérias-primas das plantas nativas do Cerrado (palhas, fibras e sementes) e cultivadas em sistemas agroecológicos no assentamento. As peças são tingidas com corantes naturais de plantas nativas, como barbatimão, jenipapo e angico.",0,0,True,0,0,80,0
+"Farinhas",2506087,"","Farinha de jatobá 200g",350,"CEPPEC – Centro de Produção, Pesquisa e Capacitação do Cerrado
+Nioaque – MS","CEPPEC – Centro de Produção, Pesquisa e Capacitação do Cerrado
+Nioaque – MS
+Tecelagem de algodão, lã e anafaia com tingimento natural e fibras e vegetais – Bolsas femininas, Bolas/pastas promocionais para eventos, capa para pastas, mantas, cachecol, jogos americano, tapetes, saias, chapéu/gorros, etc.
+Castanha de baru, farinha de jatobá e pequi",0,11,False,17,0,15,0
+"Farinhas",3761832,"","Farinha de Mandioca- 1kg",1500,"Farinha de Mandioca- 1kg
+COPABASE (MG)-Cooperativa da Agricultura Familiar Sustentável com base na Economia Solidária Ltda.","Farinha de Mandioca- 1kg
+Congregando em seus quadros 150 agricultores familiares do Vale do Rio Urucuia, a Cooperativa Agroextrativista em base de Agricultura Familiar Sustentável e Economia Solidária – COPABASE tem por missão gerar trabalho e renda para as famílias, sob os princípios da Economia Popular Solidária",0,1,True,0,0,16,0
+"Farinhas",2466588,"","Farinha de pequi",250,"COOPERJAP – Cooperativa do Produtores Rurais e Catadores de Pequi
+Japonvar – MG
+Pequi em conserva, óleo de pequi, castanha de pequi e polpas de frutas nativas congeladas","COOPERJAP – Cooperativa do Produtores Rurais e Catadores de Pequi
+Japonvar – MG
+Pequi em conserva, óleo de pequi, castanha de pequi e polpas de frutas nativas congeladas",0,0,False,0,0,6,0
+"Farinhas",2506099,"","Farinha de Pequi c/ paçoca de carne de sol",250,"Farinha de Pequi c/ paçoca de carne de sol
+COOPERJAP – Cooperativa do Produtores Rurais e Catadores de Pequi
+Japonvar – MG","COOPERJAP – Cooperativa do Produtores Rurais e Catadores de Pequi
+Japonvar – MG
+Pequi em conserva, óleo de pequi, castanha de pequi e polpas de frutas nativas congeladas",0,0,False,0,0,6,0
+"Farinhas",5025868,"","Farofa de Pequi 250g",300,"Farofa de Pequi - 250g
+COOPERJAP – Cooperativa do Produtores Rurais e Catadores de Pequi
+Japonvar – MG","COOPERJAP – Cooperativa do Produtores Rurais e Catadores de Pequi
+Japonvar – MG
+Pequi em conserva, óleo de pequi, castanha de pequi, farofa de pequi e polpas de frutas nativas congeladas",0,0,True,0,0,15,0
+"Farinhas",2466596,"","Mesocarpo de babaçu 500g",530,"Mesocarpo de babaçu BIO NUTRI 100% natural
+COOPAESP – Cooperativa dos Pequenos Produtores Agroextrativista de Esperantinópolis
+Esperantinópolis-MA
+Mesocarpo de Babaçu BioNutri","Mesocarpo de babaçu BIO NUTRI 100% natural
+COPPAESP – Cooperativa dos Pequenos Produtores Agroextrativista de Esperantinópolis
+Esperantinópolis-MA
+Mesocarpo de Babaçu BioNutri
+
+COMPOSIÇÃO QUÍMICA
+O mesocarpo de babaçu é a substância colhida entre o epicarpo e o endocarpo do coco de babaçu e quimicamente formado de compostos ricos em glicerina, ácido fosfórico ecolina.
+Modo de usar:
+O mesocarpo de babaçu pode ser tomado diluído em água, leite, suco ou misturado na comida, na medida de uma colher de sopa 2 vezes ao dia ou pode ser acrescentado nas receitas de bolos, pães e mingaus.
+INDICAÇÕES
+O mesocarpo de babaçu é um complemento alimentar rico em amidos e sais minerais, extraído de um vegetal rico em fibras, sendo por isso indicado para prisão de ventre, colite e obesidade. Além disso, possui propriedades antiinflamatórias e analgésicas, o que torna também indicado no tratamento de artrite reumatóide, prostatite, úlceras, cansaço físico e mental, esgotamento, tumores e inflamações em geral.",0,10,False,18,0,15,0
+"Frutas desidratadas",2466572,"","Banana Desidratada",100,"CAV
+Bom Sem Base
+Turmaina-MG","CAV
+Bom Sem Base
+Turmaina-MG",10,0,False,0,0,2.5,0
+"Frutas desidratadas",5025871,"","Raspa de Buriti Desidratado 140g",150,"Raspa de Buriti Desidratado 140g","Raspa de Buriti Desidratado 140g",0,0,True,0,0,0,0
+"Macauba",3327517,"","Azeite de Babaçu - 500ml",950,"Azeite de Babaçu - 500ml
+CIMQCB – Cooperativa Interestadual das Mulheres Quebradeiras de Coco de Babaçu
+Maranhão, Pará, Tocantins e Piauí
+Azeite de Babaçu","Azeite de Babaçu - 500ml
+CIMQCB – Cooperativa Interestadual das Mulheres Quebradeiras de Coco de Babaçu
+Maranhão, Pará, Tocantins e Piauí
+Azeite de Babaçu",0,15,False,0,0,20,0
+"Macauba",5182927,"az_babacu","Azeite de Babaçu Tradicional - 150ml",300,"Produzido por: Cooperativa Interestadual do Movimento das Quebradeiras de Coco Babaçu
+
+Extraído na panela de forma tradicional","Produzido por: Cooperativa Interestadual do Movimento das Quebradeiras de Coco Babaçu
+
+Extraído na panela de forma tradicional
+
+CIMQCB é uma cooperativa de organizações lideradas por trabalhadoras rurais extrativistas do babaçu dos estados do Pará, Tocantins, Piauí e Maranhão. Atuando em rede há dezoito anos, essas mulheres vêm transformando seu dia-a-dia em movimentos pela distribuição de renda, pela inclusão, pela diversidade de idéias e modos de vida e pela preservação da natureza.",0,0,True,0,0,10,0
+"Macauba",5182921,"ol_babacu","Óleo de Babaçu - 150ml",300,"Produzido por: Cooperativa Interestadual do Movimento das Quebradeiras de Coco Babaçu
+
+Extraído por processo de prensagem à frio","Produzido por: Cooperativa Interestadual do Movimento das Quebradeiras de Coco Babaçu
+
+Extraído por processo de prensagem à frio
+
+CIMQCB é uma cooperativa de organizações lideradas por trabalhadoras rurais extrativistas do babaçu dos estados do Pará, Tocantins, Piauí e Maranhão. Atuando em rede há dezoito anos, essas mulheres vêm transformando seu dia-a-dia em movimentos pela distribuição de renda, pela inclusão, pela diversidade de idéias e modos de vida e pela preservação da natureza.",0,0,True,0,0,10,0
+"Macauba",5025876,"","Óleo de Babaçu - 5 litros",5500,"Óleo de Babaçu - 5 litros","Óleo de Babaçu - 5 litros
+Produto extraído na panela pelas Quebradeiras de Coco de Babaçu através do método tradicional de fervura.",4,4,False,0,0,250,0
+"Macauba",5025873,"","Óleo de Macaúba - 1 litro",1100,"Óleo de Macaúba - 1000ml
+Óleo da amendoa do coco da macaúba extraído por prensagem a frio.","Óleo de Macaúba - 1000ml",0,0,True,0,0,80,0
+"Macauba",5182923,"ol_macauba","Óleo de Macaúba - 150ml",300,"Associação de Pequenos Trabalhadores Rurais de Riacho D’anta e Adjacências
+
+Montes Claros – MG
+
+Óleo de macaúba extraído pelo processo de prensagem à frio (castanha e polpa)","Associação de Pequenos Trabalhadores Rurais de Riacho D’anta e Adjacências
+
+Montes Claros – MG
+
+Óleo de macaúba extraído pelo processo de prensagem à frio (castanha e polpa)
+ 
+Na comunidade de Riacho D’Anta vivem cerca de 40 famílias agroextrativistas. Para que a fábrica funcione plenamente, será necessário envolver outras 62 comunidades da região no fornecimento de macaúba. Além dos óleos, a fábrica processará pequi em conserva, como forma de otimizar a estrutura e ampliar a geração de renda.",0,6,True,0,0,10,0
+"Macauba",2506098,"","Óleo de Pequi",50,"COOPERJAP – Cooperativa do Produtores Rurais e Catadores de Pequi
+Japonvar – MG
+Pequi em conserva, óleo de pequi, castanha de pequi e polpas de frutas nativas congeladas","COOPERJAP – Cooperativa do Produtores Rurais e Catadores de Pequi
+Japonvar – MG
+Pequi em conserva, óleo de pequi, castanha de pequi e polpas de frutas nativas congeladas",0,0,False,0,0,6.5,0
+"Macauba",5025875,"","Óleo de Pequi - 1 litro",1100,"Óleo de Pequi - 1 litro","Óleo de Pequi - 1000ml",0,0,True,0,0,60,0
+"Macauba",5025874,"","Óleo de Pequi - 500ml",600,"Óleo de Pequi - 500ml","Óleo de Pequi - 500ml",0,2,True,0,0,30,0
+"Mel",2466595,"","Cx Mel de Abelha Tiúba",65,"AMAVIDA – Associação Maranhense para a Conservação da Natureza
+Envolve 2 empreendimentos – Meliponina e ASTUR
+Barreirinhas e São Luis – MA
+Produtos: Natmel das abelhas Tiúba, Uruçu e Jandaíra.","AMAVIDA – Associação Maranhense para a Conservação da Natureza
+Envolve 2 empreendimentos – Meliponina e ASTUR
+Barreirinhas e São Luis – MA
+Produtos: Natmel das abelhas Tiúba, Uruçu e Jandaíra.",15,0,False,0,0,10,0
+"Mel",2498337,"","Kit Natmel  2 Natmel 65g",130,"Kit Natmel Caixa e 2 Natmel 65g
+AMAVIDA – Associação Maranhense para a Conservação da Natureza
+Envolve 2 empreendimentos – Meliponina e ASTUR
+Barreirinhas e São Luis – MA","AMAVIDA – Associação Maranhense para a Conservação da Natureza
+Envolve 2 empreendimentos – Meliponina e ASTUR
+Barreirinhas e São Luis – MA
+Produtos: Natmel das abelhas Tiúba, Uruçu e Jandaíra.",10,0,False,0,0,25,0
+"Mel",2503664,"","Mel bisnaga",350,"CAV
+Bom Sem Base
+Turmaina-MG","CAV
+Bom Sem Base
+Turmaina-MG",0,0,False,0,0,4.5,0
+"Mel",2503667,"","Mel bisnaga",500,"CAV
+Bom Sem Base
+Turmaina-MG","CAV
+Bom Sem Base
+Turmaina-MG",10,0,False,0,0,10,0
+"Mel",2517406,"","Mel de Abelha bisnaga",350,"Cooperativa Agroextrativista Grande Sertão
+Sede em Montes Claros – MG, porém com atuação em toda região do Norte de MG.","Cooperativa Agroextrativista Grande Sertão
+Sede em Montes Claros – MG, porém com atuação em toda região do Norte de MG.
+Polpas de fruta congelada: araçá, cajá, coquinho azedo, mangaba, maracujá nativo, panã/araticum, seriguela, tamarindo, acerola, abacaxi, goiaba, manga e maracujá. Pequi congelado, óleo de pequi, polpa de pequi em conserva, rapadurinha, açúcar mascavo, mel (apis), arroz de pilão, farinha de mandioca",10,0,False,0,0,8,0
+"Mel",4903101,"","Mel de Abelha bisnaga 200g",200,"COPABASE - Cooperativa da Agricultura Familiar Sustentável com base na Economia Solidária Ltda.
+Arinos - MG","COPABASE - Cooperativa da Agricultura Familiar Sustentável com base na Economia Solidária Ltda.
+Arinos - MG
+Produtos: Mel de abelhas em sachê e bisnagas, castanha de baru, farinha de mandioca, óleo de pequi, rapadurinha, polpa de frutas, açucar mascavo, dentre outros.",12,24,True,0,0,14,0
+"Mel",4903100,"","Mel de Abelha bisnaga 340g",340,"COPABASE - Cooperativa da Agricultura Familiar Sustentável com base na Economia Solidária Ltda.
+Arinos - MG","COPABASE - Cooperativa da Agricultura Familiar Sustentável com base na Economia Solidária Ltda.
+Arinos - MG
+Produtos: Mel de abelhas em sachê e bisnagas, castanha de baru, farinha de mandioca, óleo de pequi, rapadurinha, polpa de frutas, açucar mascavo, dentre outros.",13,12,True,0,0,20,0
+"Mel",4903099,"","Mel de Abelha bisnaga 500g",500,"COPABASE - Cooperativa da Agricultura Familiar Sustentável com base na Economia Solidária Ltda.
+Arinos - MG","COPABASE - Cooperativa da Agricultura Familiar Sustentável com base na Economia Solidária Ltda.
+Arinos - MG
+Produtos: Mel de abelhas em sachê e bisnagas, castanha de baru, farinha de mandioca, óleo de pequi, rapadurinha, polpa de frutas, açucar mascavo, dentre outros.",10,12,True,0,0,26,0
+"Mel",4903102,"","Mel de Abelha sachê  500g",500,"COPABASE - Cooperativa da Agricultura Familiar Sustentável com base na Economia Solidária Ltda.
+Arinos - MG","COPABASE - Cooperativa da Agricultura Familiar Sustentável com base na Economia Solidária Ltda.
+Arinos - MG
+Produtos: Mel de abelhas em sachê e bisnagas, castanha de baru, farinha de mandioca, óleo de pequi, rapadurinha, polpa de frutas, açucar mascavo, dentre outros.",0,0,True,0,0,25,0
+"Mel",4903104,"","Mel de Abelha sachê 1000g",1000,"COPABASE - Cooperativa da Agricultura Familiar Sustentável com base na Economia Solidária Ltda.
+Arinos - MG","COPABASE - Cooperativa da Agricultura Familiar Sustentável com base na Economia Solidária Ltda.
+Arinos - MG
+Produtos: Mel de abelhas em sachê e bisnagas, castanha de baru, farinha de mandioca, óleo de pequi, rapadurinha, polpa de frutas, açucar mascavo, dentre outros.",0,0,True,0,0,50,0
+"Mel",2498343,"","Mel de Abelha Tiúba 235g",350,"Natmel bisnaga 235g (Mel de Abelha Tiúba)
+AMAVIDA – Associação Maranhense para a Conservação da Natureza
+Envolve 2 empreendimentos – Meliponina e ASTUR
+Barreirinhas e São Luis – MA","AMAVIDA – Associação Maranhense para a Conservação da Natureza
+Envolve 2 empreendimentos – Meliponina e ASTUR
+Barreirinhas e São Luis – MA
+Produtos: Natmel das abelhas Tiúba, Uruçu e Jandaíra.",0,0,True,0,0,15,0
+"Mel",2498340,"","Mel de Abelha Tiúba 65g",150,"Natmel vidro 65 g (Mel de AbelhaTiúba)
+AMAVIDA – Associação Maranhense para a Conservação da Natureza
+Envolve 2 empreendimentos – Meliponina e ASTUR
+Barreirinhas e São Luis – MA","AMAVIDA – Associação Maranhense para a Conservação da Natureza
+Envolve 2 empreendimentos – Meliponina e ASTUR
+Barreirinhas e São Luis – MA
+Produtos: Natmel das abelhas Tiúba, Uruçu e Jandaíra.",0,0,True,0,0,10,0
+"Mel",2498342,"","Mel de Abelha Tiúba vidro",235,"Natmel vidro 200ml  (Mel de Abelha Tiúba)
+AMAVIDA – Associação Maranhense para a Conservação da Natureza
+Envolve 2 empreendimentos – Meliponina e ASTUR
+Barreirinhas e São Luis – MA","AMAVIDA – Associação Maranhense para a Conservação da Natureza
+Envolve 2 empreendimentos – Meliponina e ASTUR
+Barreirinhas e São Luis – MA
+Produtos: Natmel das abelhas Tiúba, Uruçu e Jandaíra.",0,0,True,0,0,18.5,0
+"Mel",2503686,"","Mel em sachê",200,"","CAV
+Bom Sem Base
+Turmaina-MG",0,0,False,0,0,3.5,0
+"Mel",2466593,"","Mel Grande Sertão",500,"Cooperativa Agroextrativista Grande Sertão
+Sede em Montes Claros – MG, porém com atuação em toda região do Norte de MG.","Cooperativa Agroextrativista Grande Sertão
+Sede em Montes Claros – MG, porém com atuação em toda região do Norte de MG.
+Polpas de fruta congelada: araçá, cajá, coquinho azedo, mangaba, maracujá nativo, panã/araticum, seriguela, tamarindo, acerola, abacaxi, goiaba, manga e maracujá. Pequi congelado, óleo de pequi, polpa de pequi em conserva, rapadurinha, açúcar mascavo, mel (apis), arroz de pilão, farinha de mandioca",10,0,False,0,0,12,0
+"Mel",2503672,"","Mel pote",1000,"CAV
+Bom Sem Base
+Turmaina-MG","CAV
+Bom Sem Base
+Turmaina-MG",10,0,False,0,0,9,0
+"Mel",2503682,"","Mel pote",500,"CAV
+Bom Sem Base
+Turmaina-MG","CAV
+Bom Sem Base
+Turmaina-MG",10,0,False,0,0,5,0
+"Mel",2498345,"","Polén",12,"AMAVIDA – Associação Maranhense para a Conservação da Natureza
+Envolve 2 empreendimentos – Meliponina e ASTUR
+Barreirinhas e São Luis – MA
+Produtos: Natmel das abelhas Tiúba, Uruçu e Jandaíra.","AMAVIDA – Associação Maranhense para a Conservação da Natureza
+Envolve 2 empreendimentos – Meliponina e ASTUR
+Barreirinhas e São Luis – MA
+Produtos: Natmel das abelhas Tiúba, Uruçu e Jandaíra.",10,0,False,0,0,6,0
+"Mel",2498348,"","Polímia",20,"AMAVIDA – Associação Maranhense para a Conservação da Natureza
+Envolve 2 empreendimentos – Meliponina e ASTUR
+Barreirinhas e São Luis – MA
+Produtos: Natmel das abelhas Tiúba, Uruçu e Jandaíra.","AMAVIDA – Associação Maranhense para a Conservação da Natureza
+Envolve 2 empreendimentos – Meliponina e ASTUR
+Barreirinhas e São Luis – MA
+Produtos: Natmel das abelhas Tiúba, Uruçu e Jandaíra.",10,0,False,0,0,15,0
+"Mel",2503687,"","Própolis 20ml",100,"CAV
+Bom Sem Base
+Turmaina-MG","CAV
+Bom Sem Base
+Turmaina-MG",0,0,False,0,0,20,0
+"Outros",4903107,"","Azeite de Babaçu - 500ml Prensado à frio",950,"Azeite de Babaçu - Prensado à frio - 500ml
+CIMQCB – Cooperativa Interestadual das Mulheres Quebradeiras de Coco de Babaçu
+Maranhão, Pará, Tocantins e Piauí
+Azeite de Babaçu","Azeite de Babaçu - Prensado à frio - 500ml
+CIMQCB – Cooperativa Interestadual das Mulheres Quebradeiras de Coco de Babaçu
+Maranhão, Pará, Tocantins e Piauí
+Azeite de Babaçu",0,0,False,0,0,20,0
+"Outros",2503613,"","Chá de hibiscus/vinagreira 50g",75,"Promessa de Futuro
+Pirenópolis – GO
+Picles, geléias, chutney, castanha de baru, feijão azuki","Promessa de Futuro
+Pirenópolis – GO
+Picles, geléias, chutney, castanha de baru, feijão azuki",5,0,False,0,0,10,0
+"Outros",2466589,"","Feijão azuki",500,"Promessa de Futuro
+Pirenópolis – GO
+Picles, geléias, chutney, castanha de baru, feijão azuki","Promessa de Futuro
+Pirenópolis – GO
+Picles, geléias, chutney, castanha de baru, feijão azuki",0,0,False,0,0,5,0
+"Outros",5182908,"ol_pequi","Óleo de Pequi - 150ml",300,"COOPERJAP – Cooperativa do Produtores Rurais e Catadores de Pequi
+Japonvar – MG
+","COOPERJAP – Cooperativa do Produtores Rurais e Catadores de Pequi
+Japonvar – MG
+
+Cerca de 250 famílias, em 30 organizações de produtores, entre elas a Associação dos Pequenos Produtores Rurais da Cabeceira do Mangaí (Aprocam) participam do empreendimento e processaram o pequi em núcleos comunitários de despolpa. Com isso, o extrativismo está se transformando na principal fonte de renda dos produtores locais.",0,24,True,0,0,10,0
+"Outros",4903108,"","Queijo Minas Artesanal",1000,"Queijo Minas Artesanal - IMPERIAL
+Produto elaborado com leite cru
+João José de Melo.
+Serra do Salitre - MG","Queijo Minas Artesanal - IMPERIAL
+Produto elaborado com leite cru por João José de Melo na Fazenda Pavão, Serra do Salitre - MG.
+Produzido seguindo rigorosa normas de fabricação e qualidade o queijo Artesanal Serra do Salitre é feito seguindo a tradição de mais de 200 anos, sendo reconhecido pelo IPHAN a forma de fazer o queijo artesanal como patrimônio imaterial do Brasil.",0,0,False,0,0,40,0
+"Outros",4903109,"","Queijo Minas Artesanal - Meia Cura",1000,"Queijo Minas Artesanal - IMPERIAL
+Produto elaborado com leite cru. 
+Serra do Salitre - MG","Queijo Minas Artesanal - IMPERIAL
+Produto elaborado com leite cru por João José de Melo na Fazenda Pavão, Serra do Salitre - MG.
+Produzido seguindo rigorosa normas de fabricação e qualidade o queijo Artesanal Serra do Salitre é feito seguindo a tradição de mais de 200 anos, sendo reconhecido pelo IPHAN a forma de fazer o queijo artesanal como patrimônio imaterial do Brasil.",0,0,False,0,0,40,0
+"Polpas de frutas",2517415,"","Polpa de abacaxi",100,"Cooperativa Agroextrativista Grande Sertão
+Sede em Montes Claros – MG, porém com atuação em toda região do Norte de MG.","Cooperativa Agroextrativista Grande Sertão
+Sede em Montes Claros – MG, porém com atuação em toda região do Norte de MG.
+Polpas de fruta congelada: araçá, cajá, coquinho azedo, mangaba, maracujá nativo, panã/araticum, seriguela, tamarindo, acerola, abacaxi, goiaba, manga e maracujá. Pequi congelado, óleo de pequi, polpa de pequi em conserva, rapadurinha, açúcar mascavo, mel (apis), arroz de pilão, farinha de mandioca",10,0,False,0,0,1.4,0
+"Polpas de frutas",2517416,"","Polpa de acerola",100,"Cooperativa Agroextrativista Grande Sertão
+Sede em Montes Claros – MG, porém com atuação em toda região do Norte de MG.","Cooperativa Agroextrativista Grande Sertão
+Sede em Montes Claros – MG, porém com atuação em toda região do Norte de MG.
+Polpas de fruta congelada: araçá, cajá, coquinho azedo, mangaba, maracujá nativo, panã/araticum, seriguela, tamarindo, acerola, abacaxi, goiaba, manga e maracujá. Pequi congelado, óleo de pequi, polpa de pequi em conserva, rapadurinha, açúcar mascavo, mel (apis), arroz de pilão, farinha de mandioca",10,0,False,0,0,0.8,0
+"Polpas de frutas",2517420,"","Polpa de araçá",100,"Cooperativa Agroextrativista Grande Sertão
+Sede em Montes Claros – MG, porém com atuação em toda região do Norte de MG.","Cooperativa Agroextrativista Grande Sertão
+Sede em Montes Claros – MG, porém com atuação em toda região do Norte de MG.
+Polpas de fruta congelada: araçá, cajá, coquinho azedo, mangaba, maracujá nativo, panã/araticum, seriguela, tamarindo, acerola, abacaxi, goiaba, manga e maracujá. Pequi congelado, óleo de pequi, polpa de pequi em conserva, rapadurinha, açúcar mascavo, mel (apis), arroz de pilão, farinha de mandioca",10,0,False,0,0,0.8,0
+"Polpas de frutas",2517421,"","Polpa de coquinho azedo",100,"Cooperativa Agroextrativista Grande Sertão
+Sede em Montes Claros – MG, porém com atuação em toda região do Norte de MG.","Cooperativa Agroextrativista Grande Sertão
+Sede em Montes Claros – MG, porém com atuação em toda região do Norte de MG.
+Polpas de fruta congelada: araçá, cajá, coquinho azedo, mangaba, maracujá nativo, panã/araticum, seriguela, tamarindo, acerola, abacaxi, goiaba, manga e maracujá. Pequi congelado, óleo de pequi, polpa de pequi em conserva, rapadurinha, açúcar mascavo, mel (apis), arroz de pilão, farinha de mandioca",10,0,False,0,0,0.8,0
+"Polpas de frutas",2517424,"","Polpa de goiaba",100,"Cooperativa Agroextrativista Grande Sertão
+Sede em Montes Claros – MG, porém com atuação em toda região do Norte de MG.","Cooperativa Agroextrativista Grande Sertão
+Sede em Montes Claros – MG, porém com atuação em toda região do Norte de MG.
+Polpas de fruta congelada: araçá, cajá, coquinho azedo, mangaba, maracujá nativo, panã/araticum, seriguela, tamarindo, acerola, abacaxi, goiaba, manga e maracujá. Pequi congelado, óleo de pequi, polpa de pequi em conserva, rapadurinha, açúcar mascavo, mel (apis), arroz de pilão, farinha de mandioca",10,0,False,0,0,1.15,0
+"Polpas de frutas",2517429,"","Polpa de manga",100,"Cooperativa Agroextrativista Grande Sertão
+Sede em Montes Claros – MG, porém com atuação em toda região do Norte de MG.","Cooperativa Agroextrativista Grande Sertão
+Sede em Montes Claros – MG, porém com atuação em toda região do Norte de MG.
+Polpas de fruta congelada: araçá, cajá, coquinho azedo, mangaba, maracujá nativo, panã/araticum, seriguela, tamarindo, acerola, abacaxi, goiaba, manga e maracujá. Pequi congelado, óleo de pequi, polpa de pequi em conserva, rapadurinha, açúcar mascavo, mel (apis), arroz de pilão, farinha de mandioca",10,0,False,0,0,0.8,0
+"Polpas de frutas",2517439,"","Polpa de mangaba",100,"Cooperativa Agroextrativista Grande Sertão
+Sede em Montes Claros – MG, porém com atuação em toda região do Norte de MG.","Cooperativa Agroextrativista Grande Sertão
+Sede em Montes Claros – MG, porém com atuação em toda região do Norte de MG.
+Polpas de fruta congelada: araçá, cajá, coquinho azedo, mangaba, maracujá nativo, panã/araticum, seriguela, tamarindo, acerola, abacaxi, goiaba, manga e maracujá. Pequi congelado, óleo de pequi, polpa de pequi em conserva, rapadurinha, açúcar mascavo, mel (apis), arroz de pilão, farinha de mandioca",10,0,False,0,0,0.65,0
+"Polpas de frutas",2517442,"","Polpa de maracujá nativo",100,"Cooperativa Agroextrativista Grande Sertão
+Sede em Montes Claros – MG, porém com atuação em toda região do Norte de MG.","Cooperativa Agroextrativista Grande Sertão
+Sede em Montes Claros – MG, porém com atuação em toda região do Norte de MG.
+Polpas de fruta congelada: araçá, cajá, coquinho azedo, mangaba, maracujá nativo, panã/araticum, seriguela, tamarindo, acerola, abacaxi, goiaba, manga e maracujá. Pequi congelado, óleo de pequi, polpa de pequi em conserva, rapadurinha, açúcar mascavo, mel (apis), arroz de pilão, farinha de mandioca",10,0,False,0,0,1,0
+"Polpas de frutas",2517445,"","Polpa de panã",100,"Cooperativa Agroextrativista Grande Sertão
+Sede em Montes Claros – MG, porém com atuação em toda região do Norte de MG.","Cooperativa Agroextrativista Grande Sertão
+Sede em Montes Claros – MG, porém com atuação em toda região do Norte de MG.
+Polpas de fruta congelada: araçá, cajá, coquinho azedo, mangaba, maracujá nativo, panã/araticum, seriguela, tamarindo, acerola, abacaxi, goiaba, manga e maracujá. Pequi congelado, óleo de pequi, polpa de pequi em conserva, rapadurinha, açúcar mascavo, mel (apis), arroz de pilão, farinha de mandioca",10,0,False,0,0,1.15,0
+"Polpas de frutas",2517446,"","Polpa de seriguela",100,"Cooperativa Agroextrativista Grande Sertão
+Sede em Montes Claros – MG, porém com atuação em toda região do Norte de MG.","Cooperativa Agroextrativista Grande Sertão
+Sede em Montes Claros – MG, porém com atuação em toda região do Norte de MG.
+Polpas de fruta congelada: araçá, cajá, coquinho azedo, mangaba, maracujá nativo, panã/araticum, seriguela, tamarindo, acerola, abacaxi, goiaba, manga e maracujá. Pequi congelado, óleo de pequi, polpa de pequi em conserva, rapadurinha, açúcar mascavo, mel (apis), arroz de pilão, farinha de mandioca",10,0,False,0,0,1.5,0
+"Polpas de frutas",2517447,"","Polpa de tamarindo",100,"Cooperativa Agroextrativista Grande Sertão
+Sede em Montes Claros – MG, porém com atuação em toda região do Norte de MG.","Cooperativa Agroextrativista Grande Sertão
+Sede em Montes Claros – MG, porém com atuação em toda região do Norte de MG.
+Polpas de fruta congelada: araçá, cajá, coquinho azedo, mangaba, maracujá nativo, panã/araticum, seriguela, tamarindo, acerola, abacaxi, goiaba, manga e maracujá. Pequi congelado, óleo de pequi, polpa de pequi em conserva, rapadurinha, açúcar mascavo, mel (apis), arroz de pilão, farinha de mandioca",10,0,False,0,0,0.8,0
+"Polpas de frutas",2517448,"","Polpa de Umbú",100,"Cooperativa Agroextrativista Grande Sertão
+Sede em Montes Claros – MG, porém com atuação em toda região do Norte de MG.","Cooperativa Agroextrativista Grande Sertão
+Sede em Montes Claros – MG, porém com atuação em toda região do Norte de MG.
+Polpas de fruta congelada: araçá, cajá, coquinho azedo, mangaba, maracujá nativo, panã/araticum, seriguela, tamarindo, acerola, abacaxi, goiaba, manga e maracujá. Pequi congelado, óleo de pequi, polpa de pequi em conserva, rapadurinha, açúcar mascavo, mel (apis), arroz de pilão, farinha de mandioca",10,0,False,0,0,0.8,0
+"Polpas de frutas",2517434,"","Polpa jaboticaba",100,"Cooperativa Agroextrativista Grande Sertão
+Sede em Montes Claros – MG, porém com atuação em toda região do Norte de MG.","Cooperativa Agroextrativista Grande Sertão
+Sede em Montes Claros – MG, porém com atuação em toda região do Norte de MG.
+Polpas de fruta congelada: araçá, cajá, coquinho azedo, mangaba, maracujá nativo, panã/araticum, seriguela, tamarindo, acerola, abacaxi, goiaba, manga e maracujá. Pequi congelado, óleo de pequi, polpa de pequi em conserva, rapadurinha, açúcar mascavo, mel (apis), arroz de pilão, farinha de mandioca",10,0,False,0,0,0.8,0
+"Produtos de limpeza",2503719,"","Detergente 250ml",300,"Associação de Pequenos Trabalhadores Rurais de Riacho D’anta e Adjacências
+Montes Claros – MG","Associação de Pequenos Trabalhadores Rurais de Riacho D’anta e Adjacências
+Montes Claros – MG
+Óleo de macaúba prensado a frio (castanha e polpa) Carvão de casca de macaúba,, torta da polpa e da semente de macaúba, óleo de pequi, pequi congelado, óleo de algodão, sabonete de óleo de coco de macaúba e sabão em barra",0,0,False,0,0,3,0
+"Produtos de limpeza",2503732,"","Sabão barra de coco macaúba escuro",1100,"Associação de Pequenos Trabalhadores Rurais de Riacho D’anta e Adjacências
+Montes Claros – Mg","Associação de Pequenos Trabalhadores Rurais de Riacho D’anta e Adjacências
+Montes Claros – MG
+Óleo de macaúba prensado a frio (castanha e polpa) Carvão de casca de macaúba,, torta da polpa e da semente de macaúba, óleo de pequi, pequi congelado, óleo de algodão, sabonete de óleo de coco de macaúba e sabão em barra",0,0,True,0,0,14,0
+"Produtos de limpeza",2503734,"","Sabão cremoso 2 litros",4000,"Associação de Pequenos Trabalhadores Rurais de Riacho D’anta e Adjacências
+Montes Claros – MG","Associação de Pequenos Trabalhadores Rurais de Riacho D’anta e Adjacências
+Montes Claros – MG
+Óleo de macaúba prensado a frio (castanha e polpa) Carvão de casca de macaúba,, torta da polpa e da semente de macaúba, óleo de pequi, pequi congelado, óleo de algodão, sabonete de óleo de coco de macaúba e sabão em barra",0,0,False,0,0,6,0
+"Produtos de limpeza",2503733,"","Sabão em barra de coco macaúba claro - 200g",1000,"Sabão em barra de coco macaúba claro glicerinado - 5 unidades
+Associação de Pequenos Trabalhadores Rurais de Riacho D’anta e Adjacências
+Montes Claros – MG","Sabão em barra de coco macaúba claro glicerinado - 5 unidades
+Associação de Pequenos Trabalhadores Rurais de Riacho D’anta e Adjacências
+Montes Claros – MG
+Óleo de macaúba prensado a frio (castanha e polpa) Carvão de casca de macaúba,, torta da polpa e da semente de macaúba, óleo de pequi, pequi congelado, óleo de algodão, sabonete de óleo de coco de macaúba e sabão em barra",0,0,True,170,0,14,0
+"Produtos de limpeza",4903105,"","Sabão em pasta de coco macaúba - 500g",500,"Sabão em barra de coco macaúba claro glicerinado - 5 unidades
+Associação de Pequenos Trabalhadores Rurais de Riacho D’anta e Adjacências
+Montes Claros – MG","Sabão em barra de coco macaúba claro glicerinado - 5 unidades
+Associação de Pequenos Trabalhadores Rurais de Riacho D’anta e Adjacências
+Montes Claros – MG
+Óleo de macaúba prensado a frio (castanha e polpa) Carvão de casca de macaúba,, torta da polpa e da semente de macaúba, óleo de pequi, pequi congelado, óleo de algodão, sabonete de óleo de coco de macaúba e sabão em barra",0,0,True,0,0,9,0
+"Produtos de limpeza",5183648,"","Sabão em Pó de Coco Macaúba",1100,"Limpa, clareia e amacia suas roupas
+
+Associação de Pequenos Trabalhadores Rurais de Riacho D’anta e Adjacências
+Montes Claros – Mg","Composição: Hidróxido de Sódio, Água e Óleo da Semente de Coco Macaúba.
+
+Associação de Pequenos Trabalhadores Rurais de Riacho D’anta e Adjacências
+Montes Claros – MG
+Óleo de macaúba prensado a frio (castanha e polpa) Carvão de casca de macaúba,, torta da polpa e da semente de macaúba, óleo de pequi, pequi congelado, óleo de algodão, sabonete de óleo de coco de macaúba e sabão em barra",0,0,True,0,0,20,0
+"Produtos de limpeza",2503735,"","Sabão líquido 2 litros",4000,"Associação de Pequenos Trabalhadores Rurais de Riacho D’anta e Adjacências
+Montes Claros – MG","Associação de Pequenos Trabalhadores Rurais de Riacho D’anta e Adjacências
+Montes Claros – MG
+Óleo de macaúba prensado a frio (castanha e polpa) Carvão de casca de macaúba,, torta da polpa e da semente de macaúba, óleo de pequi, pequi congelado, óleo de algodão, sabonete de óleo de coco de macaúba e sabão em barra",0,0,False,0,0,6,0
+"Produtos de limpeza",2503728,"","Shampoo automotivo 2 L",4000,"Associação de Pequenos Trabalhadores Rurais de Riacho D’anta e Adjacências
+Montes Claros – MG","Associação de Pequenos Trabalhadores Rurais de Riacho D’anta e Adjacências
+Montes Claros – MG
+Óleo de macaúba prensado a frio (castanha e polpa) Carvão de casca de macaúba,, torta da polpa e da semente de macaúba, óleo de pequi, pequi congelado, óleo de algodão, sabonete de óleo de coco de macaúba e sabão em barra",0,0,False,0,0,8,0
+"Produtos de limpeza",2503737,"","Shampoo de coco macaúba 250ml",500,"Associação de Pequenos Trabalhadores Rurais de Riacho D’anta e Adjacências
+Montes Claros – MG","Associação de Pequenos Trabalhadores Rurais de Riacho D’anta e Adjacências
+Montes Claros – MG
+Óleo de macaúba prensado a frio (castanha e polpa) Carvão de casca de macaúba,, torta da polpa e da semente de macaúba, óleo de pequi, pequi congelado, óleo de algodão, sabonete de óleo de coco de macaúba e sabão em barra",0,0,False,0,0,5,0
+"Tecelagens",2466574,"","Bolsa de Fibras Naturais",200,"CEPPEC – Centro de Produção, Pesquisa e Capacitação do Cerrado
+Nioaque – MS","CEPPEC – Centro de Produção, Pesquisa e Capacitação do Cerrado
+Nioaque – MS
+Tecelagem de algodão, lã e anafaia com tingimento natural e fibras e vegetais – Bolsas femininas, Bolas/pastas promocionais para eventos, capa para pastas, mantas, cachecol, jogos americano, tapetes, saias, chapéu/gorros, etc.
+Castanha de baru, farinha de jatobá e pequi",10,0,False,0,0,10,0
