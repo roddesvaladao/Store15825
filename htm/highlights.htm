@@ -1,0 +1,152 @@
+<script src='<PathTo file="htm/js/smartmodal.js">'></script>
+<script src='<PathTo file="htm/js/hotsite-lib.js">'></script>
+<style>
+/* Hotsite Filters */ 
+.HighlightsPage .left-bar{display:none}
+.HighlightsPage #filterSidenav{margin-left:15px;}
+.HighlightsPage #idFCContent{display:flex;flex-direction:row;max-width:1306px;margin:0 auto;}
+.HighlightsPage .EstListCat li a{font-size:1rem!important;}
+.HighlightsPage #idMenuCat1{border-bottom:0!important}
+.HighlightsPage .home-price{color:#178239;font-size:1.2rem!important;}
+.HighlightsPage .old-price{font-size:0.8rem;color:#424242;}
+.HighlightsPage .installments{clear:left;line-height:normal;margin-top:0;color:#666666;font-size:0.8rem;}
+.HighlightsPage .home-container-products{display:flex;flex-wrap:wrap;justify-content:flex-start;}
+.HighlightsPage .home-container-products-child{width:20%!important;margin:10px}
+
+@media only screen and (min-width:300px) and (max-width:445px){
+.HighlightsPage .home-container-products{width:94%}
+.HighlightsPage .home-container-products-child{width:38%!important;margin:10px 5px}
+.DivHomeImagemProd img{max-width:95px;max-height:95px;}
+}
+
+@media only screen and (min-width:446px) and (max-width:552px){
+.HighlightsPage .home-container-products{width:96%}
+.HighlightsPage .home-container-products-child{width:39%!important;}
+}
+
+@media only screen and (min-width:553px) and (max-width:873px){
+.HighlightsPage .home-container-products{width:98%}
+.HighlightsPage .home-container-products-child{width:42%!important;}
+}
+
+@media only screen and (min-width:874px) and (max-width:1024px){
+.HighlightsPage .home-container-products{width:98%}
+.HighlightsPage .home-container-products-child{width:45%!important;}
+}
+
+@media only screen and (min-width:1025px) and (max-width:1223px){
+.HighlightsPage .home-container-products{width:720px}
+.HighlightsPage .home-container-products-child{width:25%!important;}
+}
+
+@media only screen and (min-width:1224px){
+.HighlightsPage .home-container-products{width:920px}
+}
+
+@media only screen and (max-width:1024px){
+  .HighlightsPage #filterSidenav{margin-left:0px;}
+  .HighlightsPage #ProductsFilterFC_Hotsite{margin-left:15px;}
+  .HighlightsPage #idFCContent{flex-direction:column;}
+  .HighlightsPage #idMobileFilters{display:flex;display:-webkit-flex;align-items:center;-webkit-align-items:center;justify-content:center;-webkit-justify-content:center;height:60px}
+  .HighlightsPage .fc-mobile-filters-left{background:#697680;color:#ffffff;text-align:center;margin:0 10px;padding:9px 0;border-radius:2px;cursor:pointer;position:relative;top:-4px;}
+  .HighlightsPage #idPageCountFC{width:50%;text-align:right;padding-right:5px}
+  .HighlightsPage .home-price{font-size:1rem!important;}
+  .HighlightsPage .home-price-breakline {display:block;}
+  .HighlightsPage .DivHomeProd{height:350px;}
+}
+
+@media only screen and (min-width:1025px){
+  .HighlightsPage .fc-mobile-filters-left,.HighlightsPage .fc-mobile-filters-left div,.HighlightsPage #filterSidenav .closebtn{display:none}
+}
+
+@keyframes scaleToFull{
+  0% {transform:scale(.01);}
+  100% {transform:scale(1);position:relative;visibility:visible;}
+}
+
+@keyframes scaleToNone{
+  0% {transform:scale(1);}
+  30% {transform:scale(.01);visibility:hidden;}
+  100% {transform:scale(.01);position:absolute;visibility:hidden;}
+}
+
+.home-container-products .smoothShow:nth-of-type(4n+1){animation-delay:.1s;}
+.home-container-products .smoothShow:nth-of-type(4n+2){animation-delay:.15s;}
+.home-container-products .smoothShow:nth-of-type(4n+3){animation-delay:.2s;}
+.home-container-products .smoothShow:nth-of-type(4n+4){animation-delay:.25s;}
+
+.home-main-container #HotSiteQtd{margin-left:10px;}
+
+.home-container-products .smoothShow{
+  transform:scale(.01);
+  animation-name:scaleToFull;
+  animation-duration:.2s;
+  animation-timing-function:ease-out;
+  animation-fill-mode:forwards;
+}
+
+.home-container-products .smoothHide{
+  transform:scale(1);
+  animation:.5s ease-out .1s 1 scaleToNone forwards;
+}
+
+@media not all and (min-resolution:.001dpcm) { 
+  @media {
+    .home-container-products .smoothHide { 
+      position:absolute;
+    }
+  }
+}
+</style>
+
+<!-- Hotsite Filters -->
+<div id="filter-offcanvas-overlay" onclick="filterCloseNav();"></div>
+<div id="filterSidenav" class="filter-sidenav font-regular">
+  <div class="closebtn" onclick="filterCloseNav();"><img alt="Close" id="list-filters-close" src="<PathTo file="images/icon-menu-close-filter.svg">" loading="lazy" width="35" height="35"></div>
+  <div id="ProductsFilterFCMobile" data-include-css="false"></div>
+  <br>
+  <div id="ProductsFilterFC_Hotsite"></div>
+</div>
+<div id="idMobileFilters">
+  <div class="fc-mobile-filters-left" id="fc-mobile-dynamic-filter">
+    <div onclick="filterOpenNav();"><b><var key="list-filters-title"></var></b></div>
+  </div>
+  <div class="fc-mobile-filters-right">
+    <div id="idPagProdTop"></div>
+  </div>
+</div>
+
+<div class="home-main-container">
+  <div class="MainHomeBoxTitFC">
+    <h1 class="MainHomeBoxTitFC-line"><var key="featured-products-title"></var></h1>
+    <div id=HotSiteQtd></div> 
+  </div> 
+  <div class="home-container-products">
+    <prod out="p254" em="rand">
+    <prod out="p254" em="rand">
+    <prod out="p254" em="rand">
+    <prod out="p254" em="rand">
+    <prod out="p254" em="rand">
+    <prod out="p254" em="rand">
+    <prod out="p254" em="rand">
+    <prod out="p254" em="rand">
+    <prod out="p254" em="rand">
+    <prod out="p254" em="rand">
+    <prod out="p254" em="rand">
+    <prod out="p254" em="rand">
+    <prod out="p254" em="rand">
+    <prod out="p254" em="rand">
+    <prod out="p254" em="rand">
+    <prod out="p254" em="rand">
+    <prod out="p254" em="rand">
+    <prod out="p254" em="rand">
+    <prod out="p254" em="rand">
+    <prod out="p254" em="rand">
+    <prod out="p254" em="rand">
+    <prod out="p254" em="rand">
+    <prod out="p254" em="rand">
+    <prod out="p254" em="rand">
+  </div>
+</div>
+
+<script>LibHotSite$.fnInit();</script>
