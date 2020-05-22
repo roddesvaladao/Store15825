@@ -1,0 +1,73 @@
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+
+<script type="text/javascript">
+try {
+
+  var pageTracker = _gat._getTracker("UA-30024731-1"); // Altere para o código fornecido pelo Analytics
+  pageTracker._initData();
+  pageTracker._trackPageview();
+
+  pageTracker._addTrans(
+    "<NumPedido>",                            // Order ID
+    "Central do Cerrado",                             // Affiliation: Altere para o nome de sua loja
+    "<TotalSemFrete>",                         // Total
+    "0.00",                                   // Tax
+    "<Frete>",                                // Shipping
+    "<CidadePedido>",                         // City
+    "<EstadoPedido>",                         // State
+    "<PaisPedido>"                            // Country
+  );
+
+  pageTracker._addItem(
+    "<NumPedido>",                            // Order ID
+    "<RefProduto1>",                           // SKU
+    "<NomeProduto1>",                         // Product Name 
+    "<IDProduto1>",                           // Category
+    "<PrecoUnitProduto1>",                    // Price
+    "<QtdProduto1>"                           // Quantity
+  );
+
+   pageTracker._addItem(
+    "<NumPedido>",                            // Order ID
+    "<RefProduto2>",                          // SKU
+    "<NomeProduto2>",                         // Product Name 
+    "<IDProduto2>",                           // Category
+    "<PrecoUnitProduto2>",                    // Price
+    "<QtdProduto2>"                           // Quantity
+   );
+
+   pageTracker._addItem(
+    "<NumPedido>",                            // Order ID
+    "<RefProduto3>",                          // SKU
+    "<NomeProduto3>",                         // Product Name 
+    "<IDProduto3>",                           // Category
+    "<PrecoUnitProduto3>",                    // Price
+    "<QtdProduto3>"                           // Quantity
+   );
+
+   pageTracker._addItem(
+    "<NumPedido>",                            // Order ID
+    "<RefProduto4>",                          // SKU
+    "<NomeProduto4>",                         // Product Name 
+    "<IDProduto4>",                           // Category
+    "<PrecoUnitProduto4>",                    // Price
+    "<QtdProduto4>"                           // Quantity
+   );
+
+
+   pageTracker._addItem(
+    "<NumPedido>",                            // Order ID
+    "<RefProduto5>",                          // SKU
+    "<NomeProduto5>",                         // Product Name 
+    "<IDProduto5>",                           // Category
+    "<PrecoUnitProduto5>",                    // Price
+    "<QtdProduto5>"                           // Quantity
+   );
+
+  pageTracker._trackTrans();
+} catch(err) {}
+</script>
